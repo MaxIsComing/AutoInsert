@@ -14,6 +14,7 @@
 		3BD500AA1B5F344A003EA755 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BD500A91B5F344A003EA755 /* Images.xcassets */; };
 		3BD500AD1B5F344A003EA755 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3BD500AB1B5F344A003EA755 /* LaunchScreen.xib */; };
 		3BD500B91B5F344A003EA755 /* qweTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD500B81B5F344A003EA755 /* qweTests.m */; };
+		3BD500C41B5F3551003EA755 /* GLabelFrameCalculate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD500C31B5F3551003EA755 /* GLabelFrameCalculate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		3BD500B21B5F344A003EA755 /* qweTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = qweTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BD500B71B5F344A003EA755 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3BD500B81B5F344A003EA755 /* qweTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qweTests.m; sourceTree = "<group>"; };
+		3BD500C21B5F3551003EA755 /* GLabelFrameCalculate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLabelFrameCalculate.h; sourceTree = "<group>"; };
+		3BD500C31B5F3551003EA755 /* GLabelFrameCalculate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLabelFrameCalculate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,8 @@
 			children = (
 				3BD500A01B5F344A003EA755 /* AppDelegate.h */,
 				3BD500A11B5F344A003EA755 /* AppDelegate.m */,
+				3BD500C21B5F3551003EA755 /* GLabelFrameCalculate.h */,
+				3BD500C31B5F3551003EA755 /* GLabelFrameCalculate.m */,
 				3BD500A31B5F344A003EA755 /* ViewController.h */,
 				3BD500A41B5F344A003EA755 /* ViewController.m */,
 				3BD500A61B5F344A003EA755 /* Main.storyboard */,
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BD500A51B5F344A003EA755 /* ViewController.m in Sources */,
+				3BD500C41B5F3551003EA755 /* GLabelFrameCalculate.m in Sources */,
 				3BD500A21B5F344A003EA755 /* AppDelegate.m in Sources */,
 				3BD5009F1B5F344A003EA755 /* main.m in Sources */,
 			);
