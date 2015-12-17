@@ -2,4 +2,4 @@
 
 语文是体育老师教的，说不明白，直接上效果图！
 
- ![image](http://raw.github.com/MaxIsComing/text/master/demonstrate.gif)
+ ![gif](http://raw.github.com/MaxIsComing/text/master/demonstrate.gif)
