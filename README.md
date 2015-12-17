@@ -2,5 +2,4 @@
 
 语文是体育老师教的，说不明白，直接上效果图！
 
- <!-- ![gif](http://raw.github.com/MaxIsComing/text/master/demonstrate.gif) -->
  <img src="https://github.com/MaxIsComing/text/master/demonstrate.gif" width = "300" height = "500" alt="Demo" align=center />
