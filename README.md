@@ -2,5 +2,4 @@
 
 语文是体育老师教的，说不明白，直接上效果图！
 
-Demo:  
 <img src="https://github.com/MaxIsComing/AutoInsert/master/demonstrate.gif" width = "300" height = "500" alt="Demo" align=center />
