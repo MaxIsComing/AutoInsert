@@ -2,5 +2,5 @@
 
 语文是体育老师教的，说不明白，直接上效果图！
 
-demonstrate:
- <img src="https://github.com/MaxIsComing/text/master/demonstrate.gif" width = "300" height = "500" alt="demonstrate" align=center />
+Demo:  
+<img src="https://github.com/MaxIsComing/AutoInsert/master/demonstrate.gif" width = "300" height = "500" alt="Demo" align=center />
